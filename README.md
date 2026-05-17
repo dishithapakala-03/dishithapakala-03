@@ -241,7 +241,7 @@ If you're a recruiter, hiring manager, or KSU alumni at an MNC — I'd love to c
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_Me-dpakala%40students.kennesaw.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpakala@students.kennesaw.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pakala_Dishitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dishithapakala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pakala_Dishitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pakala-dishitha)
 [![GitHub](https://img.shields.io/badge/GitHub-dishithapakala--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishithapakala-03)
 
 📍 Smyrna, Georgia, USA &nbsp;|&nbsp; 🟢 Open to Work — Available Immediately
