@@ -37,21 +37,26 @@ I clean messy data, check it against its source, and turn it into a dashboard fo
 
 ## 🎯 How I Work
 
+<div align="center">
+
+```mermaid
+flowchart LR
+    A["❓ QUESTION<br/>Stakeholder<br/>asks"]:::q --> B["📐 DEFINE<br/>KPIs and what<br/>good data means"]:::d
+    B --> C["🧹 VALIDATE<br/>Clean and check<br/>against the source"]:::c
+    C --> D["🔍 ANALYZE<br/>SQL + Python<br/>flag outliers and gaps"]:::a
+    D --> E["📊 SHOW<br/>Power BI and<br/>Tableau dashboard"]:::v
+    E --> F["✅ DECIDE<br/>A better<br/>decision"]:::r
+    E -.->|feedback| A
+
+    classDef q fill:#0a3d62,stroke:#0a3d62,color:#ffffff
+    classDef d fill:#12556e,stroke:#12556e,color:#ffffff
+    classDef c fill:#1a6b6b,stroke:#1a6b6b,color:#ffffff
+    classDef a fill:#4f8f6a,stroke:#4f8f6a,color:#ffffff
+    classDef v fill:#c9973a,stroke:#c9973a,color:#1b1b1b
+    classDef r fill:#2ea44f,stroke:#2ea44f,color:#ffffff
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  STAKEHOLDER ASKS A QUESTION                                    │
-│         ↓                                                       │
-│  I define the metrics (KPIs) and what "good data" looks like    │
-│         ↓                                                       │
-│  I collect, clean, and validate the data against its source     │
-│         ↓                                                       │
-│  I analyze it with SQL + Python and flag outliers & gaps        │
-│         ↓                                                       │
-│  I turn the results into a dashboard a CEO can understand       │
-│         ↓                                                       │
-│  BETTER DECISION MADE ✅                                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+
+</div>
 
 ---
 
@@ -236,7 +241,7 @@ Unlearning framework that cut attack success from 100% to 0% across 3 trigger ty
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-dpakala%40students.kennesaw.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpakala@students.kennesaw.edu)
+[![Email](https://img.shields.io/badge/Email_Me-dishithapakala%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishithapakala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pakala_Dishitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pakala-dishitha)
 [![GitHub](https://img.shields.io/badge/GitHub-dishithapakala--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishithapakala-03)
 
