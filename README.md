@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=1a6b6b&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;MS+Computer+Science+%40+KSU+%7C+GPA+4.0%2F4.0;Graduate+Research+Assistant+%7C+IPO+Prospectus+Data;Azure+Certified+%7C+Co-inventor%2C+Granted+Indian+Patent;Turning+Raw+Data+into+Business+Decisions+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dishithapakala-03&color=1a6b6b&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 > [!IMPORTANT]
