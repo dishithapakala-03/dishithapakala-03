@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:1a6b6b,100:c9973a&height=220&section=header&text=Pakala%20Dishitha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau&descAlignY=58&descSize=18&descColor=f0d898&animation=fadeIn"/>
 
-<!-- VISITOR COUNTER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=1a6b6b&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;MS+Computer+Science+%40+KSU+%7C+GPA+4.0%2F4.0;Graduate+Research+Assistant+%7C+IPO+Prospectus+Data;Azure+Certified+%7C+Co-inventor%2C+Granted+Indian+Patent;Turning+Raw+Data+into+Business+Decisions+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=dishithapakala-03&color=1a6b6b&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&color=1a6b6b&center=true&vCenter=true&width=750&lines=MS+Computer+Science+%40+KSU+%7C+GPA+4.0%2F4.0;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Graduate+Research+Assistant+%7C+IPO+Prospectus+Data;Azure+Administrator+Certified+%7C+2+Filed+Patents;Turning+Raw+Data+into+Business+Decisions+%F0%9F%8E%AF)](https://git.io/typing-svg)
-
 </div>
+
+> [!IMPORTANT]
+> **🎯 Seeking a Data Analyst internship for Summer 2027** · Atlanta, GA (hybrid, remote or on-site) · CPT eligible
 
 ---
 
 <div align="center">
 
-### 🏆 At a Glance
+## ⚡ At a Glance
 
-| 🥇 2 Patents | 📊 GRA Data Analyst | ☁️ Azure Certified | 🎓 4.0 GPA | 📍 Atlanta, GA |
+| 🎓 Education | 📊 Current Role | ☁️ Certified | 🏆 Patent | 📍 Based in |
 |:---:|:---:|:---:|:---:|:---:|
-| AI & IoT Systems | IPO Prospectus Data | Microsoft Certified | MS CS @ KSU | Open to Work ✅ |
+| **MS CS @ KSU**<br>4.0 GPA | **Graduate Research Assistant**<br>IPO Prospectus Data | **Azure Administrator**<br>Microsoft | **1 Granted**<br>+ 1 Pending (India) | **Atlanta, GA**<br>Open to Work ✅ |
 
 </div>
 
@@ -29,29 +29,27 @@
 
 I'm not someone who just writes queries. I look at a dataset and ask **"what is this telling the business, and what should we do about it?"**
 
-I can clean messy data, check it against its source, and turn it into a dashboard for someone who has two minutes to make a decision. I do this today as a **Graduate Research Assistant** collecting and validating IPO prospectus data for a finance professor, and I've done it for HR leadership through Power BI dashboards.
+I clean messy data, check it against its source, and turn it into a dashboard for someone who has two minutes to make a decision. I do this today as a **Graduate Research Assistant**, collecting and validating IPO prospectus data for a finance professor, and I've done it for HR leadership through Power BI dashboards.
 
-Currently pursuing my **MS in Computer Science at Kennesaw State University** (4.0 GPA) and actively seeking a **Data Analyst internship for Summer 2027**.
-
-> *"The best analyst isn't the one with the most charts — it's the one who makes the next decision easier."*
+> *"The best analyst isn't the one with the most charts. It's the one who makes the next decision easier."*
 
 ---
 
-## 🎯 What I Actually Do
+## 🎯 How I Work
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  STAKEHOLDER ASKS A QUESTION                                    │
 │         ↓                                                       │
-│  I define the metrics (KPIs) and what "good data" looks like   │
+│  I define the metrics (KPIs) and what "good data" looks like    │
 │         ↓                                                       │
-│  I collect, clean, and validate the data against its source    │
+│  I collect, clean, and validate the data against its source     │
 │         ↓                                                       │
-│  I analyze it with SQL + Python and flag outliers & gaps       │
+│  I analyze it with SQL + Python and flag outliers & gaps        │
 │         ↓                                                       │
-│  I turn the results into a dashboard a CEO can understand      │
+│  I turn the results into a dashboard a CEO can understand       │
 │         ↓                                                       │
-│  BETTER DECISION MADE ✅                                        │
+│  BETTER DECISION MADE ✅                                         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -59,21 +57,25 @@ Currently pursuing my **MS in Computer Science at Kennesaw State University** (4
 
 ## 💼 Experience
 
-**Graduate Research Assistant (Data Analyst)** — Kennesaw State University · *Aug 2026 – Present*
-Project: **IPO Prospectus Data Collection** (finance faculty research)
-- Collect and extract financial and offering data from IPO prospectus filings into structured datasets
-- Validate data against source documents, flag missing or inconsistent values, and document data definitions and collection rules
-- Clean, organize, and maintain datasets using Excel and Python; report progress and data issues to the faculty supervisor
+### 📊 Graduate Research Assistant (Data Analyst)
+**Kennesaw State University** · *Aug 2026 – Present* · Project: **IPO Prospectus Data Collection** (finance faculty research)
 
-**Business Analyst Intern** — INTRAIN TECH (with SkillCepha) · *Oct 2023 – Nov 2023*
-- Analyzed IBM's Employee Attrition & Performance data with SQL, Excel, and Power BI; built dashboards identifying the top 8 attrition risk drivers for HR and Operations leadership
-- Validated outputs, investigated data exceptions, and defined KPIs with HR stakeholders
+- 🔹 Collect and extract financial and offering data from IPO prospectus filings into structured datasets
+- 🔹 Validate data against source documents, flag missing or inconsistent values, and document data definitions and collection rules
+- 🔹 Clean, organize, and maintain datasets using Excel and Python; report progress and data issues to the faculty supervisor
 
-**Student Member, Graduate Research Association** — Kennesaw State University · *Aug 2025 – May 2026*
+### 📈 Business Analyst Intern
+**INTRAIN TECH (with SkillCepha)** · *Oct 2023 – Nov 2023*
+
+- 🔹 Analyzed IBM's Employee Attrition & Performance data with SQL, Excel, and Power BI; built dashboards identifying the **top 5 attrition risk drivers** for HR and Operations leadership
+- 🔹 Validated outputs, investigated data exceptions, and defined KPIs with HR stakeholders
+
+### 🎓 Student Member, Graduate Research Association
+**Kennesaw State University** · *Aug 2025 – May 2026*
 
 ---
 
-## 🛠️ My Data Toolkit
+## 🛠️ Data Toolkit
 
 <div align="center">
 
@@ -99,7 +101,6 @@ Project: **IPO Prospectus Data Collection** (finance faculty research)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![OLAP](https://img.shields.io/badge/Data_Warehousing-OLAP-0a3d62?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=IBM&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -109,52 +110,80 @@ Project: **IPO Prospectus Data Collection** (finance faculty research)
 
 ## 💡 Featured Projects
 
-> Each project is framed the way an analyst would frame it: the question first, the result second.
-
----
+*Each project starts with the question, then the result.*
 
 ### 👥 [IBM Employee Attrition Analysis](https://github.com/dishithapakala-03/IBM-Employee-Attrition-BA)
-**Problem:** HR leadership couldn't see which employees were at risk of leaving, or why
 
-**What I delivered:** Analyzed 1,500 employees × 35 variables → identified the top 8 attrition risk drivers → delivered recommendations to HR and Operations leadership through Power BI dashboards (18% projected attrition reduction in simulation)
-
-**Result:** Logistic Regression chosen as the final model because HR stakeholders could interpret it
-
-`SQL` `Python` `Power BI` `Excel` `HR Analytics` `Stakeholder Reporting`
-
----
+> **❓ Question:** Which employees are at risk of leaving, and why?
+>
+> **🛠️ What I did:** Analyzed 1,470 employees × 35 variables, identified the **top 5 attrition risk drivers**, and delivered recommendations to HR and Operations leadership through Power BI dashboards (18% projected attrition reduction in simulation).
+>
+> **✅ Result:** Chose Logistic Regression as the final model because HR stakeholders could interpret it.
+>
+> `SQL` `Python` `Power BI` `Excel` `HR Analytics` `Stakeholder Reporting`
 
 ### 🔎 Rollup-Based Multilevel Anomaly Detection in a Retail Data Warehouse
-**Problem:** Outlier records get hidden when retail data is only viewed at one level of aggregation
 
-**What I delivered:** OLAP rollups and hierarchical aggregation across star/snowflake schemas → evaluated data at multiple levels to flag anomalous records → comparison metrics that support automated data-quality checks
-
-`SQL` `OLAP` `Python` `Data Warehousing` `Anomaly Detection`
-
----
+> **❓ Question:** How do you catch outlier records that hide when data is viewed at only one level?
+>
+> **🛠️ What I did:** Used OLAP rollups and hierarchical aggregation across star/snowflake schemas to compare data at multiple levels and flag anomalous records.
+>
+> **✅ Result:** Comparison metrics that support automated data-quality checks.
+>
+> `SQL` `OLAP` `Python` `Data Warehousing` `Anomaly Detection`
 
 ### 🎓 [Student Performance Prediction System](https://github.com/dishithapakala-03/Student-Performance-BA)
-**Problem:** Universities have no early warning system for students at risk of failing
 
-**What I delivered:** End-to-end analytical workflow with defined validation criteria and incomplete-data handling → Flask web app for academic administrators → 99.63% accuracy on 200+ records using Random Forest + SVM
-
-`SQL` `Python` `Flask` `Random Forest` `SVM` `EdTech Analytics`
-
----
+> **❓ Question:** Can universities spot students at risk of failing early?
+>
+> **🛠️ What I did:** Built an end-to-end analytical workflow with defined validation criteria and incomplete-data handling, plus a Flask web app for academic administrators.
+>
+> **✅ Result:** 99.63% accuracy on 200+ records using Random Forest + SVM.
+>
+> `SQL` `Python` `Flask` `Random Forest` `SVM` `EdTech Analytics`
 
 ### 🗄️ Relational Database & Business Rules Management System
-**Problem:** Business rules only help if the data itself enforces them
 
-**What I delivered:** Normalized MySQL database with primary/foreign keys, constraints, triggers, and validation rules across employee, assignment, branch, supplier, and supervision modules → ER model built and documented in MySQL Workbench
-
-`MySQL` `ER Modeling` `Data Integrity` `Business Rules`
+> **❓ Question:** How do you make the data itself enforce business rules?
+>
+> **🛠️ What I did:** Designed a normalized MySQL database with primary/foreign keys, constraints, triggers and validation rules across employee, assignment, branch, supplier and supervision modules; built and documented the ER model in MySQL Workbench.
+>
+> `MySQL` `ER Modeling` `Data Integrity` `Business Rules`
 
 ---
 
-### 🌐 [SDN Campus Network Optimization](https://github.com/dishithapakala-03/SDN-Campus-Network-Optimization)
-**Problem:** Campus network suffering high latency, poor load distribution — 4,000+ daily users affected
+## 🏆 Patents & Research
 
-**What I delivered:** K-Median clustering + Dynamic Weighted Round Robin → validated against 6 KPIs
+<div align="center">
+
+![Railway Patent](https://img.shields.io/badge/Railway_Patent-No._595016_Granted-2ea44f?style=for-the-badge)
+![Pothole Patent](https://img.shields.io/badge/Pothole_Patent-202541021974_Pending-c9973a?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-Procedia_Computer_Science-0a3d62?style=for-the-badge)
+
+</div>
+
+### 🚂 System and Method for Railway Accident Prevention
+**Indian Patent No. 595016** · Filed Dec 2023 · Published Jan 2024 · **Granted Jul 2026** · Co-inventor
+
+A real-time monitoring and detection system with IoT integration that detects track hazards and triggers alerts. I conceived the idea and planned the system approach as part of a four-member inventor team. 🥈 Placed 2nd among all Engineering Clinics group projects at VIT-AP (Fall 2023-24).
+
+### 🚗 System and Method for Detecting Potholes and Providing Adaptive Notifications to Users in Real-Time
+**Indian Patent Application No. 202541021974** · Filed 11 March 2025 · **Patent pending** · Co-inventor
+
+A cloud-based AI system for real-time pothole detection using YOLOv4 computer vision, ESP32 camera modules and IoT sensors. GPS coordinates go to Google Firebase Cloud, drivers get adaptive notifications through a mobile app, and an STM32 microcontroller with ultrasonic sensors adds vehicle-aware adaptive headlight control. I conceived the idea and developed the system.
+
+[![Full patent details](https://img.shields.io/badge/📂_Full_Details_&_Verification-patents--and--research-1a6b6b?style=for-the-badge)](https://github.com/dishithapakala-03/patents-and-research)
+
+<details>
+<summary><b>🔬 More research & projects (click to expand)</b></summary>
+
+<br>
+
+**🌿 Plant Disease Detection (98.35% accuracy)**, published in *Procedia Computer Science*
+EfficientNetB0 model classifying disease states across apple, cherry and blueberry leaves from a 13,096-image dataset. `TensorFlow` `Transfer Learning`
+
+**🌐 [SDN Campus Network Optimization](https://github.com/dishithapakala-03/SDN-Campus-Network-Optimization)**
+K-Median clustering + Dynamic Weighted Round Robin for a campus network with 4,000+ daily users, validated against 6 KPIs.
 
 | Metric | Before | After | Change |
 |---|---|---|---|
@@ -162,55 +191,10 @@ Project: **IPO Prospectus Data Collection** (finance faculty research)
 | Throughput | 38.3 Mbps | 93.6 Mbps | ↑ **144%** |
 | Packet Rate | 0.059 pkt/s | 0.590 pkt/s | ↑ **900%** |
 
-`Python` `Mininet` `Ryu SDN` `NetworkX` `scikit-learn` `KPI Analysis`
-
----
-
-<details>
-<summary><b>🔬 Research, Patents & More Projects (click to expand)</b></summary>
-
-<br>
-
-**🌿 Research: Plant Disease Detection (98.35% accuracy)**, published in *Procedia Computer Science*
-EfficientNetB0 model classifying disease states across apple, cherry, and blueberry leaves from a 13,096-image dataset. `TensorFlow` `Transfer Learning`
-
-**🚗 Patent: Cloud-Based Pothole Detection System** · No. 202541021974 · Filed & Published March 2025
-Cloud-based AI system using YOLOv4 + ESP32 cameras + IoT sensors → GPS coordinates → Google Firebase → real-time driver alerts. I defined 17 requirements and documented data-reliability scenarios for sensor failure, GPS drift, and connectivity loss.
-
-**🚂 Patent: Railway Accident Prevention System** · No. 202341085234 · Filed Dec 2023 · Published Jan 2024
-Real-time monitoring and detection system with IoT integration; built a risk register covering 9 failure scenarios. 🥈 2nd place among 1,000+ projects in a national competition.
-
 **🔐 [NLP Backdoor Machine Unlearning](https://github.com/dishithapakala-03/NLP-Backdoor-Machine-Unlearning)**
 Unlearning framework that cut attack success from 100% to 0% across 3 trigger types with under 1% accuracy drop and no retraining. `PyTorch` `DistilBERT` `HuggingFace`
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dishithapakala-03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishithapakala-03&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dishithapakala-03&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dishithapakala-03&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -229,16 +213,16 @@ Unlearning framework that cut attack success from 100% to 0% across 3 trigger ty
 
 ## 🎓 Education
 
-```
-🎓 MS Computer Science — Kennesaw State University, USA     GPA: 4.0/4.0    2025–Present
-🎓 B.Tech CS & Engineering — VIT-AP University, India       CGPA: 9.0/10    2021–2025
-```
+| Degree | School | Score | Years |
+|---|---|---|---|
+| **M.S. Computer Science** | Kennesaw State University, USA | GPA 4.0 / 4.0 | 2025 – Present |
+| **B.Tech CS & Engineering** | VIT-AP University, India | CGPA 9.0 / 10 | 2021 – 2025 |
 
 ---
 
 ## 🌱 Currently Working On
 
-- 📊 IPO Prospectus Data Collection as a Graduate Research Assistant
+- 📊 IPO prospectus data collection as a Graduate Research Assistant
 - 🛠️ Building Power BI and Tableau portfolio dashboards
 - 🧹 Sharpening SQL and Python (Pandas) skills on real datasets
 - 🎯 Targeting Data Analyst internships for Summer 2027
@@ -247,9 +231,8 @@ Unlearning framework that cut attack success from 100% to 0% across 3 trigger ty
 
 ## 📫 Let's Talk
 
-I'm actively looking for a **Data Analyst internship** for **Summer 2027** (hybrid, remote, or on-site; CPT eligible).
-
-If you're a recruiter, hiring manager, or KSU alum, I'd love to connect.
+> [!TIP]
+> If you're a recruiter, hiring manager, or KSU alum, I'd love to connect.
 
 <div align="center">
 
@@ -257,11 +240,9 @@ If you're a recruiter, hiring manager, or KSU alum, I'd love to connect.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pakala_Dishitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pakala-dishitha)
 [![GitHub](https://img.shields.io/badge/GitHub-dishithapakala--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishithapakala-03)
 
-📍 Atlanta, Georgia, USA &nbsp;|&nbsp; 🟢 Open to Work — Data Analyst Internship, Summer 2027
+📍 Atlanta, Georgia, USA &nbsp;|&nbsp; 🟢 Open to Work: Data Analyst Internship, Summer 2027
 
 </div>
-
----
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9973a,50:1a6b6b,100:0a3d62&height=120&section=footer"/>
